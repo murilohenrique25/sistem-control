@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "origin"]
+	url = https://github.com/murilohenrique25/sistem-control.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
